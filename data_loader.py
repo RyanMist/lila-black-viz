@@ -24,11 +24,11 @@ PREPROCESSED_PARQUET = os.path.join(DATA_ROOT, "data", "all_events.parquet")
 MINIMAP_DIR_PREPROCESSED = os.path.join(DATA_ROOT, "data", "minimaps")
 
 DATE_FOLDERS = {
-    "Feb 10": "February_10",
-    "Feb 11": "February_11",
-    "Feb 12": "February_12",
-    "Feb 13": "February_13",
-    "Feb 14": "February_14",
+    "February_10": "February_10",
+    "February_11": "February_11",
+    "February_12": "February_12",
+    "February_13": "February_13",
+    "February_14": "February_14",
 }
 DATES_ORDERED = list(DATE_FOLDERS.keys())
 
