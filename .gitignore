@@ -1,0 +1,27 @@
+# Raw data folders — too many files, use data/all_events.parquet instead
+February_10/
+February_11/
+February_12/
+February_13/
+February_14/
+
+# Original high-res minimap images — use data/minimaps/ instead
+/minimaps/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Excel export (generated on demand)
+player_data_verification.xlsx
+
+# Streamlit local cache
+.streamlit/secrets.toml
