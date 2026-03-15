@@ -2,7 +2,7 @@
 
 An interactive web tool for level designers to explore 5 days of production gameplay data from **LILA BLACK**, a battle-royale extraction shooter.
 
-**Live demo:** [Deployed URL — see below](#deployment)
+**Live demo:** https://lila-black-viz-k5xg7z5zrx2xxsj7ixsljd.streamlit.app/
 
 ---
 
